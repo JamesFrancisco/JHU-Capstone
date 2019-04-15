@@ -1,0 +1,12 @@
+name: NLP_Capstone
+title: NLP_Capstone
+username:
+account: jrfanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 864769
+bundleId: 2011336
+url: https://jrfanalytics.shinyapps.io/NLP_Capstone/
+when: 1555300035.39346
+asMultiple: FALSE
+asStatic: FALSE

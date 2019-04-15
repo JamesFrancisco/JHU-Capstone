@@ -1,0 +1,12 @@
+name: shiny
+title: DataScience_Capstone_App
+username:
+account: jrfanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 864743
+bundleId: 2011330
+url: https://jrfanalytics.shinyapps.io/shiny/
+when: 1555299719.1235
+asMultiple: FALSE
+asStatic: FALSE
